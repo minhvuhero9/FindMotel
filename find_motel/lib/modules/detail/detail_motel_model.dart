@@ -1,4 +1,3 @@
-// Class định nghĩa thông tin chi tiết phòng
 class RoomDetail {
   final String address; // Địa chỉ phòng
   final String commission; // Hoa hồng
